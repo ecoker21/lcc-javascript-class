@@ -1,0 +1,1 @@
+# lcc-javascript-class
